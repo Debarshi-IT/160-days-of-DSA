@@ -25,22 +25,42 @@ Organized Learning: Solve in a structured manner created for best learning outco
 Career Roadmap Sessions: Free extra workshops on trending techs such as DevOps, Software testing, Full Stack & more for a complete guided experience.
 
 CONTENTS
+
 ● Arrays: Lay the Foundation (Days 1–13)
+
 ● Strings: Master Text Processing (Days 14–20)
+
 ● Sorting: Organize Data Efciently (Days 21–27)
+
 ● Searching: Find What You Need Fast (Days 28–35)
+
 ● Matrix: Unlock the Power of 2D Data (Days 36–41)
+
 ● Hashing: Unlock Data Relationships (Days 42–49)
+
 ● Two Pointer Technique: Simplify Complex Problems (Days 50–61)
+
 ● Prex Sum: Solve Cumulative Problems (Days 62–66)
+
 ● Linked List: Manage Dynamic Data (Days 67–76)
+
 ● Backtracking: Explore Recursive Problem-Solving (Days 77–79)
+
 ● Trees: Build and Traverse Hierarchical Data (Days 80–92)
+
 ● Heap: Manage Prioritized Data (Days 93–96)
+
 ● Stack: Simplify Operations (Days 97–105)
+
 ● Queue and Deque: FIFO Operations (Days 106–107)
+
 ● Dynamic Programming (DP): Optimize Complex Problems (Days 108–133)
+
 ● Greedy: Make Optimal Choices (Days 134–137)
+
 ● Graphs: Explore Connectivity and Paths (Days 138–152)
+
 ● Tries: Explore Prex Trees (Days 153–155)
+
 ● Bit Manipulation: Simplify Binary Operations (Days 156–160)
+

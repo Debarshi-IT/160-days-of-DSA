@@ -2,6 +2,7 @@
 
 
 Course Overview
+
 What is GfG 160: Solve handpicked coding problems daily for the next 160 days and master DSA in a structured and organized manner. No need for random SDE sheets anymore! Practice topic-wise DSA Problems with this 160 Day roadmap that will help you improve your DSA skills with additional problems and teach you approaches in a structured manner. So for the next 160 days, just solve the problems in the order recommended in this course to enhance your DSA skills. (See the Detailed Course Syllabus PDF below to check out the flow in which problems will be solved). 
 
 
